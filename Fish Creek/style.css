@@ -4,7 +4,7 @@ body{
 background-color: #6699ff;
 color: #d5e3ff;
 font-family: verdana, arial, sans-serif;
-
+text-align: center;
 }
 h1{
 
@@ -28,6 +28,7 @@ display: inline;
 background-color: #6699ff;
 color: #003366;
 font-size: 1.1em;
+font-weight: bold;
 
 }
 
