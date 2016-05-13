@@ -20,6 +20,10 @@ nav {
 font-weight: bold;
 
 }
+nav li {
+display: inline;
+}
+
 .category {
 background-color: #6699ff;
 color: #003366;
