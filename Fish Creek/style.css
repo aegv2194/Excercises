@@ -22,6 +22,7 @@ font-weight: bold;
 }
 nav li {
 display: inline;
+
 }
 
 .category {
@@ -31,7 +32,19 @@ font-size: 1.1em;
 font-weight: bold;
 
 }
+h2 {
+  text-align: left;
+}
+dl p {text-align: left;}
 
+main dt {
+text-align: left;
+
+}
+main dd {
+  text-align: left;
+}
 footer {
 font-size: .70em;
+text-align: left;
 }
